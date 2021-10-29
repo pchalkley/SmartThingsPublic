@@ -1,1 +1,1 @@
-# Smartthings
+# SmartThingsPublic
